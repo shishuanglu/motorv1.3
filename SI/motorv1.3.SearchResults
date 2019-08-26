@@ -1,0 +1,2 @@
+---- sysStatusE Matches (1 in 1 files) ----
+motorTask.c (Src) line 34 : SYS_STATE sysStatusE = STOP_STATE;
